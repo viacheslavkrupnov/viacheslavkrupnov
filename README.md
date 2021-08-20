@@ -18,7 +18,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/redux.png" />]()
 
 
-![Profile views](https://gpvc.arturio.dev/viacheslavkrupnov)
+
 
 
 
