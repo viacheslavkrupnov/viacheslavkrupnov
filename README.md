@@ -19,6 +19,9 @@
 
 
 
+
+
+
 [![viacheslavkrupnov`s github stats](https://github-readme-stats.vercel.app/api?username=viacheslavkrupnov&show_icons=true&)](https://github.com/viacheslavkrupnov/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavkrupnov&layout=compact)](https://github.com/viacheslavkrupnov/github-readme-stats)
