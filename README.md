@@ -18,10 +18,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/redux.png" />]()
 
 
-
-
-
-
+![Profile views](https://gpvc.arturio.dev/viacheslavkrupnov)
 
 
 
@@ -29,6 +26,3 @@
 [![viacheslavkrupnov`s github stats](https://github-readme-stats.vercel.app/api?username=viacheslavkrupnov&show_icons=true&)](https://github.com/viacheslavkrupnov/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavkrupnov&layout=compact)](https://github.com/viacheslavkrupnov/github-readme-stats)
-
-
-![Profile views](https://gpvc.arturio.dev/viacheslavkrupnov)
