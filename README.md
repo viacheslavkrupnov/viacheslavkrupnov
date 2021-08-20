@@ -2,7 +2,7 @@
 
 <h2>My current stack of technologies:</h2>
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/git.png" />
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/git.png" />]()
  [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/terminal.png" />]()
  [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/github.png" />]()
 [<img align="left" alt="Figma" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/figma.png" />]()
@@ -15,7 +15,12 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/js.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/react.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/redux.png" />]()
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+[<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
+
+
+
+
+
 
 
 
