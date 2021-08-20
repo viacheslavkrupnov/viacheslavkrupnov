@@ -17,6 +17,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/react.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/redux.png" />]()
 
+<br />
 
 [![viacheslavkrupnov`s github stats](https://github-readme-stats.vercel.app/api?username=viacheslavkrupnov&show_icons=true&)](https://github.com/viacheslavkrupnov/github-readme-stats)
 
